@@ -1,0 +1,23 @@
+{
+  "name": "capturep5",
+  "version": "0.0.1",
+  "description": "Captures movies from p5js canvas using CCapture.js",
+  "main": "captureP5.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/davruet/capturep5.git"
+  },
+  "author": "David Rueter",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/davruet/capturep5/issues"
+  },
+  "homepage": "https://github.com/davruet/capturep5#readme",
+  "dependencies": {
+    "ccapture.js": "^1.1.0",
+    "webm-writer": "^0.2.4"
+  }
+}
